@@ -1,0 +1,16 @@
+﻿int[]A = new int[3];
+int[]B = new int[3];
+Console.Write($"Введите координату X первой точки: ");
+int.TryParse(Console.ReadLine()!, out A[0]);
+Console.Write($"Введите координату Y первой точки: ");
+int.TryParse(Console.ReadLine()!, out A[1]);
+Console.Write($"Введите координату Z первой точки: ");
+int.TryParse(Console.ReadLine()!, out A[2]);
+Console.Write($"Введите координату X второй точки: ");
+int.TryParse(Console.ReadLine()!, out B[0]);
+Console.Write($"Введите координату Y второй точки: ");
+int.TryParse(Console.ReadLine()!, out B[1]);
+Console.Write($"Введите координату Z второй точки: ");
+int.TryParse(Console.ReadLine()!, out B[2]);
+double c = Math.Sqrt((A[0] - B[0]) * (A[0] - B[0]) + (A[1] - B[1]) * (A[1] - B[1]) + (A[2] - B[2]) * (A[2] - B[2]));
+Console.Write($"Расстояние между точками = {c}");
