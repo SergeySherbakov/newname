@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.AssemblyInfo.cs
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\bin\Debug\net6.0\task38.exe
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\bin\Debug\net6.0\task38.deps.json
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\bin\Debug\net6.0\task38.runtimeconfig.json
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\bin\Debug\net6.0\task38.dll
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\bin\Debug\net6.0\task38.pdb
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.dll
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\refint\task38.dll
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.pdb
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\task38.genruntimeconfig.cache
+C:\Users\Админ\Desktop\учеба 2022\Work\lesson\task38\obj\Debug\net6.0\ref\task38.dll
